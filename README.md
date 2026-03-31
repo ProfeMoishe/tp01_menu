@@ -16,14 +16,10 @@ A continuación, se describen las opciones disponibles en el
 asistente:
 | Opción | Acción | Descripción |
 | :--- | :--- | :--- |
-| 1 | Verificar Estado | Muestra los niveles de recursos de
-la nave. |
-| 2 | Navegación | Calcula la distancia al siguiente planeta.
-|
-| 3 | Configuración | Permite cambiar el nombre de la flota.
-|
-| 4 | **[Personalizada]** | [Aquí describe la función que TÚ
-agregaste]. |
+| 1 | Verificar Estado | Muestra los niveles de recursos de la nave. |
+| 2 | Navegación | Calcula la distancia al siguiente planeta.|
+| 3 | Configuración | Permite cambiar el nombre de la flota.|
+| 4 | **[Personalizada]** | [Aquí describe la función que TÚ agregaste]. |
 | 5 | Salir | Cierra el programa de forma segura. |
 ---
 ## 🚀 Cómo ejecutarlo
